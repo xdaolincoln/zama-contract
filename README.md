@@ -126,8 +126,6 @@ read -p "🔑 Enter your private key: " PK && echo && PRIVATE_KEY=$PK npx hardha
 ### -------- Done!---------
 Check your contract: https://sepolia.etherscan.io/
 
-Fill form for: ✔️ Access to "Submit your project to participate to the monthly competition"
-
-Here: https://docs.google.com/forms/d/e/1FAIpQLSfQ6_ZWv30cxfS3s6WqptwFBtvjms8k9HVK6OB9X_Ga4yHvZQ/viewform
+Fill form: https://docs.google.com/forms/d/e/1FAIpQLSfQ6_ZWv30cxfS3s6WqptwFBtvjms8k9HVK6OB9X_Ga4yHvZQ/viewform
 
 
